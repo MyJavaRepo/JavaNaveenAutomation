@@ -8,6 +8,7 @@ public class DataTypes {
 		int a=10; 
 		char c='A';
 		double d=11.25;
+		
 		String s ="Manoj";		
 	}
 }
